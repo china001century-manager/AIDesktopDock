@@ -1,0 +1,18 @@
+﻿{
+    "generatedAt":  "2026-06-23T12:06:47.7841803Z",
+    "repositoryName":  "command-compass-skills",
+    "outputDir":  "D:\\MyFiles\\Work\\javisHUD\\market\\derived\\github-release",
+    "coverImage":  "D:\\MyFiles\\Work\\javisHUD\\market\\derived\\github-release\\assets\\cover.png",
+    "packages":  [
+                     {
+                         "lang":  "zh-CN",
+                         "path":  "D:\\MyFiles\\Work\\javisHUD\\market\\derived\\github-release\\zh",
+                         "id":  "ai-bookmark-desktop-dock-assistant-zh"
+                     },
+                     {
+                         "lang":  "en",
+                         "path":  "D:\\MyFiles\\Work\\javisHUD\\market\\derived\\github-release\\en",
+                         "id":  "bookmark-desktop-dock-ai-assistant-en"
+                     }
+                 ]
+}
