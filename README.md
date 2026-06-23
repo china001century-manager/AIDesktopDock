@@ -1,4 +1,6 @@
-﻿# Command Compass Skills
+![指令罗盘截图](https://img.cdn1.vip/i/6a3a902cf003d_1782222892.webp) 
+
+# Command Compass Skills
 
 <p align="center">
   <img src="assets/cover.png" alt="Command Compass skills cover" width="100%" />
